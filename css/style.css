@@ -1,0 +1,40 @@
+.entrada {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.fondo-gris{
+    background-color: rgb(197, 197, 197);
+    color: rgb(28, 28, 146);
+}
+
+h3 {
+    text-align: left;
+    font-weight: 700;
+    background-color: rgb(197, 197, 197);
+    color: rgb(28, 28, 146);
+    font-family: 'Times New Roman', Times, serif';
+}
+
+.negrita {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.fecha {
+    font-weight: bold;
+}
+
+h2 {
+    background-color: rgb(76, 76, 175);
+    color: white;
+    text-align: center;
+
+}
